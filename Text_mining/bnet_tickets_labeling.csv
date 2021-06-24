@@ -1,0 +1,471 @@
+random_id,id,description,priority_label
+94,266511,Upload speed 0.78 Mbps;;Circuit number WBS_16973_1 ;Zain number 1368366;Contact number 39658042.,low
+111,266785,internet is down;;;;contact no. 39662171,high
+244,268568,replace ONT;;CONTANT 36072780,low
+305,269301,Circuit id: 20001740;;customer is facing disconnection and line is down .;;customer contact :39944409,high
+342,269924,"Dear team;;;;;error notes show up as \No matching address\"" but as customer informed us that next door flat \""43\"" get fiber connection. ;;;;kindly do the needful.;;;; Warm regards. \""""",low
+376,270687,customer is facing disconnections. ;;contact: 36787918,high
+390,270786,REF:20001959;;issue:cstomer is having lots of disconnection;;customer name: ABDUL AZIZ TAJ MOM AL BALUSHI;;cont:38883038,high
+419,271227,the customer line is getting 19 out of 100 mbps ;;;;contact: 33332444;;20000524,high
+477,265450,already has fiber from Batelco - 19828925,low
+528,266985,Service keeps disconnecting. When it's disconnected the LOS turns on;;;;-Service Identifier: WBS_17159_1;;-Contact: 34389914;;-Name: ZAHRA ALI HASAN,high
+568,267663,Disconnection;;; almost all the time and whenever he calls they do for him reboot and again couple of days and it goes back to disconnection Fiber Billing REF: -A:20001622 ;;contact number 66620330,high
+781,271145,"Service \WBS_14856_1\"" could not be shifted to the above location due to service availability .;;;;Error: • Service availability check was not successful. ErrorCode: ERR-50106; ErrorMessage: Path was NOT found from splitter/MDU to OLT; ErrorReason: Fibre error: ERR-50106 - Path was NOT found from splitter/MDU to OLT & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE""",high
+792,271205,The service is disconnecting; and the speed is not stable;;;;-Service Identifier: WBS_29246_1;;-Contact: 37101044;;-Name: AHMED SAMI ALI;;-CPR: 000803812,high
+821,271345,20001130;;Red los / no data ;;contact number : 3909954 / 37193442;;name : SULEKHA SHOUKKATHALI;;13610335,low
+957,267803,customer confirm they have fiber coverage ; but in system shown no coverage kindly check;;;;Contact: 97333174741;;CPR: 771005660,low
+1023,268575,20008626;;RED LOS / no data ;;contact number :37220063;;name : AWATEF MOHAMED ;;13624321,low
+1024,268575,20008626;;RED LOS / no data ;;contact number :37220063;;name : AWATEF MOHAMED ;;13624321,low
+1029,268707,CPR 990909670,low
+1086,269800,20000583 - circuit again down. customer contact - 33103669;;;;Dear team; this is the 3rd time this failure is happening for this circuit. Kindly look into the issue and resolve this completely.,low
+1087,269807,36030759 - Osama 111694,low
+1118,270245,packet loss and high latency on the link.,low
+1300,266179,"LOS light is on \No Service\"";;;;-Name: RAED ALMARDI;;-Circuit ID: WBS_14776_1;;-Contact: 34515169""",high
+1385,267615,Dear Team; ;;kindly confirm if that address had coverage; we gwt error Msg. when add CPR;;;;Customer Name: ALI HASAN HAMMADI;;CPR: 831008059;;Contact: 97336653360,low
+1443,268644,REF:-WBS_18486_1;;issue:red LOS;;customer name:MINA HMAM;;cont:34595883,low
+1452,269079,speed customer already on best channel but getting low speed his package 100 mbps he is getting 10 mbps ;;-A:20001666;;contact number 39655298,low
+1453,269079,speed customer already on best channel but getting low speed his package 100 mbps he is getting 10 mbps ;;-A:20001666;;contact number 39655298,low
+1472,269372,customer facing issue ; connected without internet;;;;TBS : 20000034;;;;Contact : 36275172;;Sursh,high
+1519,270103,heavy unstoppable disconnection;;;;contact no. 3688 7317,high
+1543,270832,Customer is facing slowness issue . can't download anything even by using 1 device;;;;TBS : 20007119;;Contact : 33776780,low
+1606,271851,-WBS_24049_1;;red los / no data ;;contact number : 36445933;;name : SANOJ MOHAN;;13621827,low
+1610,271851,-WBS_24049_1;;red los / no data ;;contact number : 36445933;;name : SANOJ MOHAN;;13621827,low
+1612,271879,change the speed from 10 to 16;;;;;;Line number : 17255464;;;;Contact : 39988674,low
+1631,264819,Fibre Feasibility please;;POC:;;Mohammed Abdou;;32200063,low
+1634,264819,Fibre Feasibility please;;POC:;;Mohammed Abdou;;32200063,low
+1638,264832,Contact Person: Ahmed Bucheeri – IT Manager;;Contact Number: 17357777,low
+1642,264880,Please add the address as the service is already available,low
+1644,264897,The customer had a service and ceased it. (Internal cables are still available);;;;(652),low
+1666,265387,811104362;;;;• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Spliter was NOT found; ErrorReason: Fibre error: ERR-50102 - Spliter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+1687,265941,Please check on fiber feasibility,low
+1852,268724,Customer name: BANAGAS;;Address 1 : Block no 985; Road no 8525; Building no 1262;;POC: Mohamed AbdulWahab/ 37737010,high
+1875,269000,LOS Light is RED ( NO SERVICE ) ;;;;- Service Identifier: WBS_24246_1;;- Name: AUSAMA ABDULLA ALABSI;;- Contact: 97339988688,high
+1922,270201,20001285;;red los / no data;;contact number :37767393;;name : HASAN AHMED ALI AHM ;;13610094,low
+1970,271288,REF:20007178;;issue:cable cut;;customer name:YUSUF AHMED ALI HASAN;;cont:39589090,low
+1982,271307,Internet is down.. please check and rectify the issue at the earliest.;;;;WBS_25935_1,low
+2043,265060,Customer has reset the router and now the service is not working.;;;;;;-Circuit ID: 20008837;;;;-Contact: 97333021665;;;;-Service number: 2008005459,high
+2118,267046,flat 36 is matching in the same address but he is staying in the 46 flat number so he want to get the connection as soon as possible for online classes and the only deference is the floor.;;;;contact : 33809070,low
+2179,268343,20007450;;Disconnection ; many time during the day;;contact number : 66909644;;name : MOHAMED SAEED ;;13617018,high
+2400,271931,Service is disconnecting through out the day. It goes back to normal when they reboot ONT.;;;;-Service Identifier: 20007141;;-Contact: 66901300;;-Name: GAILAN HUSSEIN MOHAMMED;;-CPR: 950917672,high
+2411,264848,Please check when fiber will be available,low
+2583,269487,GPON to DS migration;;Site ID: WST4533;;Aggregation Node: HML;;NE Name :AAL-NE40E-X16A-PE;;Interface: Eth-Trunk1;;Required Throughput =2000 Mbps,low
+2634,270244,internet fiber cable is damaged;;;;red light (LOS);;;;;;contact no. 17532111,low
+2693,271109,Customer is facing an issue with his Fiber. LOS light is red. Please assist.;;;;Name: ASMA CHALLAL;;CPR: 940840669;;Circuit ID: WBS_28898_1;;Contact 97333205666,low
+2694,271109,Customer is facing an issue with his Fiber. LOS light is red. Please assist.;;;;Name: ASMA CHALLAL;;CPR: 940840669;;Circuit ID: WBS_28898_1;;Contact 97333205666,low
+2704,271343,Customer has reset the router and now the service is not working.;;;;-Service Identifier: 20007263;;-Contact: 33718930;;-Name: HASAN ABDULLA YUSUF ALHAYKI;;-CPR: 001212192,high
+2808,265992,cm have coverage in Excel Sheet but here showing error;;;;contact: 97336777907;;CPR: 700405259,low
+2844,267110,WBS_20106_1 (Order ID 62319); ;;;;please note that the service is not working since the installation; we already confirm the configuration from both ends ; also the customer is getting a very low speed which is 6Mbps. appreciate your immediate action.,high
+2920,268449,Kindly cancel order 77467 as CPR mentioned is wrong,low
+2926,268490,the line down from 45 minutes and the customer what to know what the issue;;contact number : 39339358 / 13301330,low
+3014,269650,Customer complaining Link is down,low
+3059,270817,REF:WBS_18125_1;;issue:red LOS;;customer name:SULAIMAN ABDULHADI SULAIMAN ZABIN;;cont:39006540,low
+3078,270925,no internet;;;;17341426;;35665349,low
+3099,271186,-WBS_15221_1;;RED LOS / no data ;;contact number :36410303;;name : YUSUF MOHAMED HASAN ;;13632665,low
+3122,271690,Customer Name: Bank Of Khartoum;;Address : Block no 436; Road No 3618 Building no 854;;POC: Khizar/ 973 3230 0849,low
+3199,267067,old TT no: 266827 closed case. but still showing the same issue;;;;Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Splitter was NOT found; ErrorReason: Fibre error: ERR-50102 - Splitter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+3228,267155,No data connection. Red LOS ;;Con no: 37777406;;Mooza AlKa'abi ;;;;Zain CS case no CS0000020005152,low
+3275,268029,REF:-WBS_23364_1;;Issue:red LOS;;customer name:HAFIZ TARIQ AZIZ MOHAMMAD H.SULTAN CHAUDHRY;;cont:33893243,low
+3296,268591,Please check if there is Fiber service in above address ;;;;RASHID KAMAL;;CPR: 830912428;;Contact: 97339823817,low
+3470,271228,customer reset the device. red LOS ;;-WBS_19149_1;;66622298;;13632994,low
+3473,271228,customer reset the device. red LOS ;;-WBS_19149_1;;66622298;;13632994,low
+3515,265093,• Service availability check was not successful. ErrorCode: ERR-50105; ErrorMessage: Splitter free port was NOT found; ErrorReason: Fibre error: ERR-50105 - Splitter free port was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE;;;;590139550 --- 33060888,high
+3588,267457,REF -A:20003056;;issue :customer is having lots of disconnection with both cable and wifi.;;customer name:JAMEEL MERZA ALI HUSAIN ALMAWLANI;;cont:36712127,high
+3594,267466,WBS_15107_1 - link down frm yesterday.. kindly check and update,low
+3624,267831,13629098 - CS0000019819148;;Contact: 39382888,low
+3698,269162,splitter was not Found ;MDU was not found,low
+3724,269911,Address in the sheet,low
+3737,269988,Service is disconnecting;;;;-Service Identifier: 20009364;;-Contact: 36500853;;-Name: RAZAN HAMZEH YOUNIS,high
+3749,270075,Circuit A:20002706 is reported down. Please let us know which 2connect/INFONAS VLAN is configured for this circuit ID and also confirm the ports are in Bridge mode and also dispatch an engineer to check the issue;;;;Customer: Mahmoud;;;;Contact: 33586222,low
+3762,270420,customer's neighbor at house 483 has the service.,low
+3798,270943,20002623;;RED LOS / no data ;;contact number :37117170;;name : HUSAIN EBRAHIM ABDULNABI ;;13611709,low
+3827,271491,WBS_14768_1;;;;RED LOS / no data ;;;;contact number : 33542289;;;;name : GERTRUDE LEKORI FARNANDO;;;;13615681;;;;;;ADDRESS : block 0334 road 3440 building 1855A,low
+3831,271546,20008934;;speed issue ; he is getting maximum 40mbps download speed ; he should get 100mbps ;;contact number :34686947;;name : CARL DUSTINE DU PREEZ;;13696947,low
+3868,265769,• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Spliter was NOT found; ErrorReason: Fibre error: ERR-50102 - Spliter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+3887,266086,Service availability check was not successful. ErrorCode: ERR-50105; ErrorMessage: Splitter free port was NOT found; ErrorReason: Fibre error: ERR-50105 - Splitter free port was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+3894,266219,Address check has not been successful. No matching addresses found.;;cpr:800310659;;as the customer building have 2 number 409 and 411 and he mentioned that there is some neighbors have fiber from stc,low
+3937,267037,-WBS_15406_1;;speed issue ; he is getting 3mbps download speed ; he should get up to 10mbps ;;contact number :66997998;;customer name : HUSAIN ALI ;;13691919,low
+4125,269964,Please add the address as soon as possible.;;;;When Checking for Service Availability; this notice below appears:;;;;• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Spliter was NOT found; ErrorReason: Fibre error: ERR-50102 - Spliter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE;;;;Account Manager: sij/nad;;;;Customer Reference:sij,high
+4136,270458,• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Splitter was NOT found; ErrorReason: Fibre error: ERR-50102 - Splitter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+4140,270550,customer complaining that the service always turn off. And to get it back need tor restart the router ;;;;TBS : 20005428;;Contact: 36525088,low
+4166,271347,Please be informed customer has informed that observed losses on the below link; please further check and share root cause of losses.;;;;Circuit ID : T.1806-23947;;;;Screenshots in the attachments,low
+4191,271600,Dear Team; ;;;;as per TT: 271482 (no issue found) while we have upgrade the plan to download speed 50 but customer still getting 20MB; please check as account check in our NOC and assigned speed is 50/5;;;;Name: AWANISH KUMAR BARNWAL;;Circuit ID: 20009730;;Ack: 184728;;CPR: 791032302,low
+4208,271925,"LOS light is on \No Service\"";;;;-Service Identifier: WBS_20845_1;;-Contact: 35562738;;-Name: MOHAMED ABDELMONEM DAWOUD;;-CPR: 841336512""",high
+4212,271955,Please add the address as soon as possible.;;;;When Checking for Service Availability; this notice below appears:;;;;• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Spliter was NOT found; ErrorReason: Fibre error: ERR-50102 - Spliter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE;;;;Customer Reference: ali/39833685,high
+4375,269459,Dears;;;;;The customer order for fiber activation is pending since December 2020. Moreover; the outbound team have terminated their temp router today knowing that they didn't get the fiber optic installed yet. Kindly; fix it ASAP. Fiber Ack Id: 61920 / CRM Order: 1-217837659321;;Contact no: 97333262428,low
+4497,271045,13621037;;-A:20006452 red los the yellow wire not fixed correctly ;;34136636,low
+4517,271366,Service keeps disconnecting;;;;-Service Identifier: WBS_17419_1;;-Contact: 36666850;;-Name: Sayed Mohamed Ateya Ahmed Ali Al Moosawi;;-CPR: 830603387,high
+4558,271844,Customer Name: BAHRAIN BAYAN SCHOOL;;Address : Block no 841; Road No 4111 Building no 230;;POC: salim Hilou/ 33893340,low
+4561,271902,-WBS_11566_1;;RED LOS / no data ;;contact number : 66627623 /66627624;;JAAFAR HAMEED ALI ;;13618296,low
+4704,268466,Customer reset the device:;;;;- Service Identifier: WBS_22969_1 ;;- Contact: 97333789840;;- Name: Anees Ur Rehman Farooqi,low
+4707,268493,Factory Reset (13620271);;case:CS0000020153941;;contact:37377396,low
+4881,271386,Please add the address as soon as possible.;;;;When Checking for Service Availability; this notice below appears:;;;;• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Spliter was NOT found; ErrorReason: Fibre error: ERR-50102 - Spliter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE;;;;Customer Reference: Ali/Supp,high
+4892,271645,-WBS_20249_1;;disconnection many time during the day ;;contact number:36474666;;name : MOHAMED BAQER HABIB ;;13620953,high
+4906,271849,T.1705-22958;;;;The above MPLS customer link is down .kindly arrange visit to check -;;;;38000626 -EAPEN,low
+4959,266061,"LOS light is on \No Service\"";;;;-Name: HARSHUL MISTRY;;-Circuit ID: 20009546;;-Contact: 34413471;;-Service No: 2008009123""",high
+4984,266929,customer is facing issue with many disconnections and can connect with the router but without service ;;;;WBS_17174;;|;;Contact : 33566765,high
+5075,268893,CS0000020188086;;;;customer reset the device ;;contact number 38833952;;ABBAS HABIB,low
+5148,270091,39414137;;CS0000020278923,low
+5257,271791,Circuit ID: Tag T.1711-23298 Vlan 1351 ;;Fault: Outage,low
+5371,267573,CPR:710347359;;• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Splitter was NOT found; ErrorReason: Fibre error: ERR-50102 - Splitter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+5399,267978,link is down; please arrange a visit to check the link for the below circuit id.;;;;A:20008198;;Customer name Shebin -39220143 / 33629099,low
+5453,268968,• Service availability check was not successful. ErrorCode: ERR-50105; ErrorMessage: Splitter free port was NOT found; ErrorReason: Fibre error: ERR-50105 - Splitter free port was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+5486,269870,No service and when it works the service keeps disconnecting;;;;;;-Service Identifier: 20003634;;;;-Contact: 33308699 / 33067334;;;;-Name: JASSIM ABDULLA,high
+5624,265362,Customer has reset the router and now the service is not working.;;;;Name: ABDULLA ASHIQ;;-Circuit ID: 20005904;;-Contact: 33374533;;-Service number: 2007018587,high
+5628,265453,CPR : 781066220;;;;• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Spliter was NOT found; ErrorReason: Fibre error: ERR-50102 - Spliter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+5659,265957,Service availability check was not successful. ErrorCode: ERR-50105; ErrorMessage: Splitter free port was NOT found; ErrorReason: Fibre error: ERR-50105 - Splitter free port was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+5674,266329,LOS indicator is blinking with red ;;;;Service ID: WBS_13884_1;;Order ID: 42434,low
+5771,268169,"LOS light is on \No Service\"";;-Service Identifier: WBS_12231_1 ;;-Contact: 97333155077;;-Name: MOHAMED SALMAN ALGHANEM""",high
+5772,268169,"LOS light is on \No Service\"";;-Service Identifier: WBS_12231_1 ;;-Contact: 97333155077;;-Name: MOHAMED SALMAN ALGHANEM""",high
+5809,268857,- Problem Description: the customer's package is 70 Mbit/s but the port is configured at 50 Mbit/s;;;;- Circuit Number: 20000715,high
+5810,268857,- Problem Description: the customer's package is 70 Mbit/s but the port is configured at 50 Mbit/s;;;;- Circuit Number: 20000715,low
+5840,269352,Customer is not getting the assigned speed. ;;;;- Service Identifier: WBS_26106_1;;- Contact: 97335460312;;- Name: FARAH SIKANDER ALI,low
+5849,269489,GPON to DS migration;;Two circuits needed for the same location;;Site: WSM4249-1 ; WSM4249-2;;NE Name :AAL-NE40E-X16A-PE;;Interface: Eth-Trunk2;;Throughput required: 500 Mbps,low
+5873,270281,No service;;;;-Service Identifier: WBS_19117_1;;-Contact: 33605060;;-Name: SALMAN HAMAD ALABDAN,high
+6083,267852,customer getting speed 51 of 100 MBPS ;;;;WBS_21470;;;;Contact : 32049103,high
+6125,268572,-WBS_24845_1;;factory reset ; they reset the fiber ;no data connection ;;contact number :37788197;;name : FATEMA HASAN MOHAMED ;;13636197,low
+6220,269921,The customer is facing slowness.;;Contact : 33663677,low
+6265,270857,"LOS light is on \No Service\"";;;;-Service Identifier/Circuit ID: 20008160;;-Contact: 33662005;;-Name: Manaf Chandrathil Muhammed Kunju;;-CPR: 770863728""",high
+6273,271108,T.2008-27210;;;;R_LOS 415-ITN OSN8800,low
+6316,264872,Please share the SR for the mentioned address. The ticket has been raised through the email long time ago.;;;;ID 68639,low
+6322,264916,Copper circuit: 20009138;;;;As per 81888; order is not closed are they are unable to complete configuration on this line for Etisalcom to use Bitstream services on the line.;;;;Order is showing closed as per the below;;;Provisioning order ID: 10423;;Order item ID: 31746,low
+6441,267826,customer is facing low speed he did not want to tell me what is the speed that eh is getting i told him everything seems fine but he insisted for a visit ;;contact number 39699430;;Fiber Billing REF: -A:20006694,low
+6478,268551,customer has a disconnections in internet and he requested for configuration.;;customer contact : 33861529;;name : Silver ;;id : wbs_247790_1,high
+6497,268896,customer did reset now data is working; kindly check and do needful. thank you.;;;;name: QAISAR;;Circuit ID: WBS_25380_1;;fiber number: 97300011501;;cpr 871012901;;call back 97333112356;;;;thank you.,high
+6503,269072,customer is sufferings from RED LOS ; he needs overhead team to visit him. ;;contact number : 36030693,low
+6512,269200,disconnection and slowness;;;;contact no. 36222241,high
+6531,269826,disconnection and low speed please check the device software seems the issue from the software ;;contact 36030287,high
+6946,270970,Please confirm if the customer still facing the latency issue;;;;-Service Identifier: WBS_12084_1;;-Contact: 35463030;;-Name: GERT WILLEM BARNES;;-CPR: 641033290,low
+6979,271324,34140024;;CS0000020389368 - urgent please for change location,low
+7040,265198,Fiber Feasibility Request -latest update Nearest Splitter is full ; please raise SR for fiber cost assessment. ;;;;Contact: Mohamed: 33586444,low
+7051,265481,Dear Team; ;;;;Please note there is Fiber service available without Flat but there is no Fiber service when mentioning Flat number;,low
+7114,267140,CS0000020000984;;;;This is related to the 6Mbps / 10 Mbps bandwidth issue. Please implement the workaround solution of doubling the bandwidth until the issue is sorted out.;;;;con no 39411992;;Fahad AlHazzani,low
+7137,267593,• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Splitter was NOT found; ErrorReason: Fibre error: ERR-50102 - Splitter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+7147,267776,Dear team;;;;;As the previous Ticket 267178 that the customer facing same issue last visit till date that disconnection and speed low and some time LOS red light.;; WBS_12429_1;;CPR: 821213695;;Contact: 39741112;;;;Please assist.,high
+7278,270460,customer is unable to get connected using cable and he has slow internet using wireless network.;;contact:38461999,low
+7410,265907,WDC Fiber Feasibility (SCADA Project) ;;JANABIA TSE Pumping Station;;Gate: 1754; Road 7735; Block 577,low
+7468,267074,20001885;;speed issue ;the customer has a package of 30 mbps but he is getting 6 or 7 mbps. ;;fiber number 13610400;;contact number 36664579;;KHALED SAIFUDDIN BAKH,low
+7473,267300,address in sheet,low
+7517,268541,20006124 - LOS issue (no internet; red light on the router). Please check at the earliest,low
+7522,268541,20006124 - LOS issue (no internet; red light on the router). Please check at the earliest,low
+7542,268874,heavy slowness and disconnection.;;;;contact no. 36763555,high
+7617,270150,T.2003-26542A ;;;;Link down .,high
+7641,270487,-WBS_12024_1;;38847604;;speed issue getting 5 and disconnection all the time it shuts down by itself,high
+7710,265016,customer cpr:781203058;;;;successful. ErrorCode: ERR-50105; ErrorMessage: Splitter free port was NOT found; ErrorReason: Fibre error: ERR-50105 - Splitter free port was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,low
+7737,265772,RED LOS (13633093);;contact:39782860;;Case number:CS0000019859998,low
+7750,265969,cm have fiber coverage in Excel sheet but shown error in portal;;;;contact: 34449997;;CPR: 861107110,low
+7776,267265,CPR 741227681,low
+7790,267719,CS0000020069810 -;;32367614,low
+7793,267725,Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Splitter was NOT found; ErrorReason: Fibre error: ERR-50102 - Splitter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+7855,269408,Customer Name: NAPCO NATIONAL COMPANY - SHAREHOLDING CLOSED BRANCH OF A FOREIGN COMPANY;;Address : Block no 436; Road no 3622; Building no 1074;;36366876 - Mohammed Nahle,low
+7885,269796,Please arrange to shift the over head cables for the below address;;;;Address: Building 3500; Road 0080; Block 0840; Isa Town;;Contact Name : Ahmed Al Hawaj;;Contact No. : 39332070,low
+7889,269796,Please arrange to shift the over head cables for the below address;;;;Address: Building 3500; Road 0080; Block 0840; Isa Town;;Contact Name : Ahmed Al Hawaj;;Contact No. : 39332070,low
+7890,269864,Dear team;;;;;thw cs changed his wifi password.;;but now when he wants to change it again and tries to login to the IP page;;192.168.100.1 with USER root and password adminHW;;it shows as wrong password.;;and he is unable to make any changes.;;CPR:910430578;;ID: 84783;;WBS: WBS_26895_1;;User: 97300012301;;Contact: 35416132;;;;;;kindly assist with this,low
+7909,270276,Speed is fluctuating and service is disconnecting throughout the day.;;;;-Service Identifier: WBS_12429_1;;-Contact: 39741112;;-Name: JUVERIA ASHAR NAZIM,high
+7918,270375,REF:WBS_24473_1;;issue:disconnection most of the time loading only with direct cable;;customer name: PRASHANTH SINGARAM;;cont:37201850,high
+8012,271379,ONT is not working.;;;;-Service Identifier: 20009758;;-Contact: 33610003;;-Name: SHAIKH SALEH OMER ALAMOODI;;-CPR: 630807833,high
+8025,271827,customer is getting full speed. but the internet not stable. every sometimes need to restart the router to get the service back.;;;;;;;;line number : 17690692;;;;Contact : 39000670,low
+8091,267338,20002750;;he is facing many of data disconnection during the day and most of the time working with low speed ; the speed reach to 1mbps ;;contact number :37775754;;customer name : SAYED MAHMOOD JAMEEL;;13611930,high
+8102,267490,"LOS light is on \No Service\"";;;;-Service Identifier: WBS_12210_1;;-Contact: 33844148;;-Name: LULUWA MOHAMED""",high
+8154,268223,WBS_16614_1;;no data connection / red los issue has been fixes but no the customer cannot use the internet ;;contact number : 36519457;;name : OSAMA AHMED KOTB;;13624703,low
+8255,269857,The customer is facing disconnection and speed issue; the speed he's getting is not stable. ;;;; Circuit ID: WBS_22785_1 ;;;;CPR : 910808554 ;;;;Contact : 36654481,high
+8366,264807,Client requires Joint site visit with Seef Properties Engineer; Viacloud and Bnet. Please advise on when it can be done;;;;Only Copper and GPON VDSL is available in Seef Mall Seef,low
+8445,267122,customer having low speed,low
+8615,269997,circuit : 20005657;;order id : 89206;;;;This is a relocation request and by default ont mode is set to bridge (no other option available);;;;We need it to be on the same mode as it was activated.,high
+8620,270122,REF:20004052;;issue:red LOS;;name:ABEER ALI NASER ALI NA RABEEA;;cont:36525005,low
+8674,271340,We observed R_LOS alarm on 9-415-ITN (OSN8800 T32); can you please check the power status and the connectivity ; and update us. ;;;;Date and time: 16th May 2021 at 01:45:45 ;;Alarm source 9-415-ITN (OSN8800 T32);;Location : 0 master shelf-22-54THA (STND)- (RX6/TX6 Etisalcom WDC VLAN 3109 |T.2008-27146 )-Client:1,low
+8803,268248,Customer name: VIN TECHNOLOGY SYSTEMS W.L.L.;;Address : Block no 115; Road no 1535; Building no 2527 ;;POC: ASTER JOHN/ 35308983,low
+8875,269802,IP down;;;;voice:17681356;;Lines : 17620820 & 17623999;;39107288 - 39837548,low
+8878,269802,IP down;;;;voice:17681356;;Lines : 17620820 & 17623999;;39107288 - 39837548,low
+8884,269987,-WBS_11708_1;;factory reset ; the customer reset the device ; no data connection ;;contact number :34414428;;name : KHALED JAMAL MOHAMED ;;13618405,low
+9026,271723,Customer is requesting for fiber and his flat we dont see signal but other flat has fiber connection;;;;;Kindly advise.;;;;contact 97366633831;;Cpr 900675764,low
+9122,266945,Customer name DH stores;;Address is showing error splitter issue when trying to raise WBS non-residential order;;;;Please note old portal is showing GPON is available at the provided address.;;;;Customer Contact: ;;Name: Irshad (39026715);;Name: Saad )33025340),high
+9127,267120,Dear team ; ;;;;we have change the plan to 10 mbps but he still getting 6 mbps .,low
+9140,267424,REF:-A:20003709;;customer rest the device;;customer name:TAJ MOHAMAD KHAN;;cont 39990324,low
+9278,270094,drop line;;;;contact 36080501;;name sajad ahmed,low
+9301,270400,REF:WBS_25595_1;;issue:disconnection and speed issue as service will working only afer restart.he is getting downlaod 16 MB and upload 4;;customer name: MOHAMED AQEEL YUSUF AHMED RASHED ALSAFFAR;;cont:37164500,high
+9363,271384,"\ Dear team;;;No connection with \""\""LOS red light\""\"";;CPR: 980328713;;ID: 95787;;Billing Ref: WBS_30081_1;;Contact number: 35053593;;kindly do the needful.;;;; Warm regards. \""""",low
+9389,264887,Dear Team; ;;;;Fiber is there; but its showing splitter issues. Kindly do the needful at the earliest.,high
+9436,266337,Address check has not been successful. No matching addresses found.,low
+9453,266534,Customer has reset the router and now the service is not working.;;;;-Circuit ID: WBS_11990_1;;-Contact: 33505547 ;;-Name: JAISON MATHEW,high
+9492,267358,Dear Team;;;;;customer said he have two box for fiber cable;;;in system shown he don't have but he insist he have;;;;Kindly check if they have or not;;;;CPR:841007896;;Contact: 97333882119,low
+9655,270932,Please add the address as soon as possible.;;;;When Checking for Service Availability; this notice below appears:;;;;• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Spliter was NOT found; ErrorReason: Fibre error: ERR-50102 - Spliter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE;;;;Customer Reference: Siraj;;Account Manager: Nad,high
+9683,271216,Damaged cable. No service;;;;-Service Identifier: WBS_29513_1;;-Contact: 35454992;;-Name: Kavery chinnadurai;;-CPR: 780867645,high
+9690,271431,Internet interruption (Blinking green light) ;;;;- Service Identifier: WBS_20231_1;;- Name; ANIL LOY BARBOZA;;- Contact: 97336985472,high
+9858,268040,Down load speed is only 60mb. This link is 80mb/15mb.,low
+9866,268538,please check fiber availability,low
+9883,269266,slowness;;only 500kbps out of 10mbps;;;;20003259;;33212198,low
+9954,270978,Dear Team;;;;;kindly check if copper quality issue is resolve or not on the below TBS. ;;;;TBS : 20001723;;;;36068637 - 33603492,low
+9990,271196,-WBS_11973_1;;red los / no data ;;contact number :39197777;;name : JOSEPH THOMAS SHERIN;;13618398,low
+10044,264881,Kindly add fiber service to address mentioned on top,low
+10052,265208,Fiber Feasibility Request- last update received Nearest Splitter is full ; please raise SR for fiber cost assessment ;;Contact: 33586444,low
+10137,268379,Feasibility for WDC aggregation link - planning to shift our NOC to Bahrain Financial Harbour - West Tower,low
+10144,268441,Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Splitter was NOT found; ErrorReason: Fibre error: ERR-50102 - Splitter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+10162,268761,customer facing slowness issue and disconnections ;;;;Contact : 34507079;;TBS : WBS_12827,high
+10184,269083,Customer has reset the router and now the service is not working.;;;;-Service Identifier: WBS_19390_1;;-Contact: 36645741;;-Name: DINESH VITHAL SHETTY,high
+10250,270121,REF:WBS_11403_1;;issue:red LOS;;customer name: SUJEET SOMAN NAIR SO NAIR SOMAN ACHUTEN;;cont:36753696,low
+10276,270322,Cost,low
+10340,271572,Fiber Feasibility Request: ;;;;Contact: Ijaz: 39 168 422,low
+10364,271859,20003746;;RED LOS/no data ;;contact number :36187787;;name : HUSAIN ALI AHMED ALI MOHAMED ;;13614234,low
+10429,266121,line is down LOS light is red,low
+10529,268252,Need to configure it in Route mode as the customer have to reconfigure with the firewall.,low
+10551,268417,Cutomer called regarding the subjected ticket and its closed ; he requested the resolution for this ticket ( 5606298 ) because he faced the same issue with it before . ;;;;20003106 ;;;;contact number : 32289343;;;;name : amay;;;;please do the needful,low
+10575,269206,20007785;;cut in fiber cable ;;contact number : 36999675;;name :AHMED KHALID SALMAN ;;13699363,low
+10646,271172,Customer Name: BRITISH UNIVERSITY OF BAHRAIN W.L.L;;Address : Bldg 1242; Road 2719; Blk 527;;POC: Raj 34409121,low
+10687,271921,Circuit : wbs_31011_1;;;; customer is facing drop packet disconnection ;;;;contact number : 37373766 .,high
+10747,266108,deliver WDC circuit with 100 Mbps to the below address ;;Appreciate if you can confirm to me if this possible or not;;;;campany name : GTT .. Account Manger : Mohammed Sayed,low
+10748,266212,Check Service Availability;;• Service availability check was not successful. ErrorCode: ERR-50105; ErrorMessage: Splitter free port was NOT found; ErrorReason: Fibre error: ERR-50105 - Splitter free port was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+10991,270643,internet is down;;;;Contact : 35422979,high
+11061,265956,Customer reset the router. ;;;;;;-Name: ZAHRA ALI;;;;-Circuit ID: WBS_12213_1;;;;-Contact: 33762278,low
+11242,269969,Service is disconnecting;;-Service Identifier: 20003405;;-Contact: 39558882;;-Name: RAJA ABDULLA ALHARMI,high
+11257,270162,Circuit : 20004678;;;;customer's internet is down.;;;;customer name : Mr. Azam Nisar Ahmed;;Customer contact : 39231845,low
+11279,270682,Service is not working;;;;-Service Identifier: WBS_29919_1;;-Contact: 33515551;;-Name: riyadh abdulhameed mohamed;;-CPR:,high
+11318,271547,20002833;;RED LOS / no data ;;contact number :66600336;;name : SALEM SUBHI ABED JALOOD ;;13613163,low
+11511,268913,Customer is getting high ping of above 120ms. He has requested to improve his speed and ping. ;;;;Name: YASHIQUE CHULLIKARA AMOO;;CPR: 920414036;;Contact number: 97333247184;;Circuit Id WBS_21253_1;;MSISDN: 97300008776,low
+11535,269949,cpr no:701218797;;;;contact no: 37110510,low
+11536,269955,Service is disconnecting;;;;-Service Identifier: WBS_27247_1;;-Contact: 39653334;;-Name: KHALED YUSUF ALDOSERI,high
+11606,270995,more than 7 times disconnections per day / red color signal;;;;17179529;;34573266,high
+11608,271007,-WBS_19428_1;;cut in fiber cable ;;contact number :39656530/33005153;;name : ABDULJALIL MOHAMED ;;13640040,low
+11664,271908,A:20000849;;66324072;;36780884; customer is facing disconnection while gaming for the past three days,high
+11763,266865,customer is facing disconnection on his line 2-3 times a day were the data flow stopes for two min then works back again. he already had two visits from the bnet . the problem keeps happening,high
+11784,268062,avpn is down / router S/N 48575443abc0f3a1 / identifier 17456344,low
+11811,268405,20003505;;Cut in Fiber Cable;;contact no : 66661160;;name : SARY ZROOA DABH;;13610433,low
+11819,268650,Speed Issue: ;;;;- Service Identifier: 20003703;;- Contact: 97339632323;;- Name: SH DUAIJ MOHAMED ALKHALIFA,low
+11875,269542,REF:-WBS_16978_1;;issue:red LOS;;customer name:MOHAMED TALEB DAHHAM ALFARES;;cont:33700212,low
+11879,269610,Customer no learning mac address from Agg side,low
+11936,270534,20005156;;disconnection many time during the day ; and the speed reach to 3mbps download speed;;contact number :37397077;;name : MOHAMED ABBAS AHMED ;;13617884,high
+11957,270959,slowness issue. ;;the customer getting 25 MBPS of 100 MBPS.;;;;TBS : 20000226;;Contact : 37396808,low
+11969,271159,customer facing slowness;;;;3mbps;;3.8mbps;;2.5Mbps;;;;33862579;;wbs_14284,low
+11976,271369,Tag : 1111-14691;;;;The circuit is down and the customer confirmed that the power is down .,low
+12151,268188,Dear Team;;;;;Please note that they are facing random packet drops on the following link. Appreciate; your support to resolve the issue. ;;;;Customer contact- Amir 3336 1536;;;;Kindly; find the logs. ;;;;ping 81.22.24.82 repeat 15000;;Type escape sequence to abort.;;Sending 15000; 100-byte ICMP Echos to 81.22.24.82; timeout is 2 seconds:;;!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!;;!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!;;!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!;;!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!;;!!!!!!!!!!!!!!!!!!!!;;Success rate is 99 percent (14991/15000); round-trip min/avg/max = 1/3/80 ms;;KLM-DIST-02,low
+12155,268287,REF:-A:20001272;;issue:customer is having lots of disconnection with bot cable and wifi;;customer name: MOHAMMAD GAUSLE AZAM;;cont:36271000,high
+12183,268533,disconnections all the time;;;;contact no. 33603492,high
+12286,270846,Please add the address as soon as possible.;;;;When Checking for Service Availability; this notice below appears:;;;;• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Spliter was NOT found; ErrorReason: Fibre error: ERR-50102 - Spliter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE;;;;Customer Reference: Add Address Request Burgerland Amwaj;;Account Manager: Mohammad Saiyed,high
+12302,271155,"LOS light is on \No Service\"";;;;-Service Identifier: WBS_28531_1;;-Contact: 34131631;;-Name: ABDULLAH BIN SHIHON;;-CPR: 860434737""",high
+12407,267177,since installation the customer is only getting 10MBPS instead of 20MBPS . please check from your end as there is no issue with the speed from zain end ;,low
+12483,269027,20002687;;RED LOS / no data ;;contact number : 36333837;;name : YUSUF YAQOOB ALI JASI ;;13613795,low
+12508,269523,GPON to DS migration;;Site ID: FRO4436;;;;NE Name: JAW-NE40E-X8A-PE;;;;Interface: Eth-Trunk1 ;;Throughput required: 2500 Mbps,low
+12527,270011,RED LOS Light is on ;;;;- Service Identifier: 20009324 ;;- Contact: 97334013117;;- Name: JABER ABDULLA SHARIF,low
+12630,271578,Dear team;;;;;The customer is experiencing slow speed every time they connect to Laptop WI-FI. ;;;;The videos do not load and always buffers.;;;;Name: ACHUTHAN VATTAPARAMBIL;;CPR: 671233882;;Circuit Id: WBS_20010_1;;Fiber number: 97300008295;;Contact number: 97335565393,low
+12683,265889,There is fiber in flat 0. Kindly add the address. ;;;; Service availability check was not successful. ErrorCode: ERR-50105; ErrorMessage: Splitter free port was NOT found; ErrorReason: Fibre error: ERR-50105 - Splitter free port was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+12812,269040,Customer is not getting the assigned speed. Current download speed is 1Mbps;;;;-Service Identifier: WBS_22929_1;;-Contact: 39336950 ;;-Name: FUAD SAYED JAAFAR HASHEM,high
+12824,269388,No Connection ;;;;- Service Identifier: WBS_17311_1;;- Name: NADIA ABDULLA FAKHROO;;- Contact: 97333057676,low
+12836,269428,customer facing slowness and browsing issue;;;;WBS_19209;;;;contact :37301302,low
+12847,269619,Customer Name: EAGLE HILLS DIYAR COMPANY W.L.L.;;Address : Block no 264; Road no 6403; Building no 176;;POC: Shahid khan/ 33551171,low
+12936,271193,fiber cable is broken;;;;contact no.,low
+13076,267361,Link down,low
+13136,268487,- Problem Description: Disconnection;;- Customer’s Name: JENG;;- Customer’s Contact Number: 36150772,high
+13157,268921,The CS reset the fiber device ;;msisdn 97300009492;;contact 97339065729;;CPR 840377282;;Circuit ID WBS_24154_1,low
+13188,269863,We got alerts on our system its shows that multiple Scada sites was down.;;;;WDC_18052_1;;WDC_18015_1;;WDC_18150_1;;WDC_18047_1;;;;We need to know reasons why service was down and came to online again. ;;;;Down from 12:23 PM to 12:33 PM.,low
+13271,271267,customer is getting 4 out of 20 mbps,low
+13291,271732,WBS_17342_1 - LOS light showing red - 33188724. please send the team at the earliest,low
+13384,267094,Router need to be changed ;;;;TBS : 20007908;;;;Contact : 39611265,low
+13395,267205,Already has fiber from other operator - 13624424,low
+13411,267735,CS0000020071660 -;;37335323,low
+13451,269290,Disconnection and speed issue: ;;;;- Service Identifier: 20009486;;- Name: Sharifa Alakhedher Jailani Jalil;;- Contact: 97336622297,high
+13544,270112,Service is disconnecting and speed is fluctuating.;;;;-Service Identifier: WBS_28376_1;;-Contact: 38300444 / 33121016;;-Name: KHALIL EBRAHIM ALAWADHI,high
+13574,270294,RED light in LOS in the router. Please check urgently as it is affecting the client's day to day activities;;;;Circuit ID : 20001314,low
+13610,271210,Service is not working;;;;-Service Identifier: WBS_16077_1;;-Contact: 33123832;;-Name: FAROOQ ALI MUJEAR;;-CPR: 920115730,high
+13658,265319,It came to our attention that the delivered service for the below address was based on temporary cable which also had a cut and it’s been resolved. ;;;;Please advise on your action to have the permanent cable fixed as the customer placed several follow up concerns on this regard. ;;;;LO: 13606396;;Address: Block 1009 Road: 949 Bldg 1179;;Your ref: WBS_11387_1,low
+13660,265319,It came to our attention that the delivered service for the below address was based on temporary cable which also had a cut and it’s been resolved. ;;;;Please advise on your action to have the permanent cable fixed as the customer placed several follow up concerns on this regard. ;;;;LO: 13606396;;Address: Block 1009 Road: 949 Bldg 1179;;Your ref: WBS_11387_1,low
+13723,266831,Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Splitter was NOT found; ErrorReason: Fibre error: ERR-50102 - Splitter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+13799,268557,Circuit A:20002706 is reported down. Kindly check at the earliest. Local checks have already been done.;;Customer: Mahmoud;;Contact: 33546442,low
+13835,269232,Port Forwarding is not working for the customer.;;Please check,high
+13877,270317,slowness; change to bridge mode;;;;TBS 20000111;;contact : 36078811,low
+13894,270716,Customer requested for an internal shift with order ID95304; they have installed the Fiber but the wire is not connected properly on the rooftop which can cause a damage anytime; please visit the customer to fix the issue as he's not satisfied with the way of extending the wires.;;;;Contact 33500290,low
+13930,271258,20008888;;speed issue ; download speed reach to 6 mbps ; he should get 20 mbps ;;contact number : 39882448;;name : DEVASHISH SHEEL;;13618235,low
+14028,267047,Request Fiber Feasibility ;;;;Mohamed Azeerm: 33074372,low
+14040,267458,REF:-A:20008416;;issue :red LOS;;customer name:MOHAMMED SHABBIR MOHAMMED ;;cont :33833198,low
+14068,268227,WBS_20871_1 The ticket was closed without any action; the client is still complaining that the internet is not working. PLEASE CHECK URGENTLY,high
+14153,269920,Speed is fluctuating ;;;;-Service Identifier: WBS_14471_1;;-Contact: 38991405;;-Name: ASHRAF SHANULLA SAYYAD,low
+14165,270286,Customer: Dar Alsalam Al Saad Reef 1 ;;Bldg No – 2946; Road No – 4652; Block No – 346; Reef Island; Kingdom of Bahrain;;Shehab Mohsen 32200063,low
+14326,265608,customer want to install fiber but no wiring available;;• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Spliter was NOT found; ErrorReason: Fibre error: ERR-50102 - Spliter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE;;;;Customer No. 33077996,high
+14548,270501,Service is disconnecting throughout the day;;;;-Service Identifier: WBS_25456_1;;-Contact: 66710048 ;;-Name: KAMRAN KHAN;;-CPR: 890514160,high
+14553,270816,REF:WBS_20588_1;;Issue:refer case number 270642 as customer insisted the agent visited him informed him isse with router and need to replace.please advise ;;customer name:ABBAS ALI HASAN MAHDI ALI;;cont:37350053,low
+14593,271650,heavy disconnection;;;;contact no. 39977322,high
+14690,266965,When Checking for Service Availability; this notice below appears:;;;;• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Spliter was NOT found; ErrorReason: Fibre error: ERR-50102 - Spliter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE;;;;Please add the address as soon as possible;;;;Acct Mngr: Siraj;;: Rice N Spice Market,high
+14693,267101,-WBS_20123_1;;RED LOS / no data ;;contact number : 38188851;;name : MERZA ABDULRASOOL ;;13633156,low
+14780,268323,20000079;;Disconnection ; most of the time the internet is not working especially from 5am and reconnects at 8:30 am;;contact number : 17879916 / 37216594;;name : RIYAZ ABDURAHIMAN;;13615618,high
+14854,270098,Fiber:20006365;;Red LOS;;Contact:37744043,low
+14987,266093,Please add the address as we are able to raise the order with Flat 0,low
+15013,266713,Kindly Add Address .. ;;Abdulla Abaas - cpr : 821202243,low
+15016,266755,Splitter issue. Kindly check and update,high
+15039,267396,cpr 961214384 ;;;;Service availability check was not successful. ErrorCode: ERR-50105; ErrorMessage: Splitter free port was NOT found; ErrorReason: Fibre error: ERR-50105 - Splitter free port was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+15121,268943,cut in fiber cable ;;Fiber Billing REF: -WBS_25036_1 ;;contacted number 33336268,low
+15123,268943,cut in fiber cable ;;Fiber Billing REF: -WBS_25036_1 ;;contacted number 33336268,low
+15202,270306,Circuit : WBS_25094_1;;;;customer's internet is down .;;;;Contact person : Rajesh;;Contact 66399360,low
+15243,271414,Issue: Red LOS; ID -WBS_18410_1;Zain Number 13634556;Contact person 39656585 Rashed.,low
+15310,266614,WBS_11366_1 - circuit hvng isssues .. kindly check and update us at the earliest,low
+15387,267881,• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Splitter was NOT found; ErrorReason: Fibre error: ERR-50102 - Splitter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+15421,269005,Team came across CPE on Fiber Broadband that is not configured with TR069 info. hence; cannot be seen on TR069.;;;;Service ID: WBS_25454_1;;;;Appreciate your support please to configure the TR069 on subject circuit.,low
+15539,271296,Customer is facing low speed .;;;;Contact : 37396808,low
+15565,271780,Contact: Mr. Lakshan - 38382040,low
+15700,268055,customer has RED LOS ;;customer contact36030278,low
+15784,269999,Splitter issue,low
+15972,267708,REf:-WBS_12678_1;;issue:red LOS;;customer name:PRAKASH SHARMA;;cont:36490989,low
+15987,268119,36030699;;101160,low
+16019,269068,REF:-WBS_20588_1;;issue:customer having lots of disconnection with both cable and wifi issue started after visited him last week as he rest the factory of the device.;;customer name:ABBAS ALI HASAN MAHDI ALI;;cont:37350053,high
+16024,269068,REF:-WBS_20588_1;;issue:customer having lots of disconnection with both cable and wifi issue started after visited him last week as he rest the factory of the device.;;customer name:ABBAS ALI HASAN MAHDI ALI;;cont:37350053,high
+16140,271068,Kindly change the ONT from Router mode to Bridge mode as per the customer request (Kalaam),low
+16192,265085,Feasability|Oasis II |DIA|ERMS-20200913-00002;;;;Contact details: 32270190 /Naveen,low
+16230,266377,-WBS_16956_1;;the fiber is working but there is no data connection ;;the customer cannot use the internet ;;contact number : 36117784 ;;13637784,low
+16251,267083,stability issue with the Wi-Fi range,low
+16306,268651,REF:-A:20002270;;issue:devise iss as customer will get the connection only once he is near to it after one metter and open area customer will not get the connection;;customer name:YOUNIS MOHAMMED SAKINI;;cont:36777789,low
+16315,268736,-WBS_15018_1 ;;everyday the customer faces a problem with the internet LOS light gets red everyday couple of times;;;;contact number: 33963596/ 37376173 ;;name : ZAINAB EBRAHIM AHMED ;;the previous ticket closed the customer was not answering ; she provide another contact number,low
+16385,270095,Red LOS;;Contact:36866117;;Fiber Billing REF: -A:20002009,low
+16494,265203,• Service availability check was not successful. ErrorCode: ERR-50105; ErrorMessage: Splitter free port was NOT found; ErrorReason: Fibre error: ERR-50105 - Splitter free port was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+16515,265581,"LOS light is on \No Service\"";;;;-Name: MOHAMED SAEED RADHI YUSUF;;-Circuit ID: WBS_13934_1;;-Contact: 33988539""",high
+16528,265943,Dear Team; ;;;;Kindly check and update,high
+16668,269403,20001834;;the light of the (TEL) not working on the ONT ; the customer cannot use the landline on the fiber ; we check from our side ; there is no issue . ;;contact number :36200436;;name : EBTESAM MOHAMED AHMED ;;13612040,high
+16893,267861,• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Splitter was NOT found; ErrorReason: Fibre error: ERR-50102 - Splitter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+16911,268522,A:20006054; Fiber Link is down as the BNet router is showing red light in the LOS part. Kindly arrange a visit to check and rectify the issue.;;;;Customer Name : Eknath;;Mobile Number : 39835441,low
+16935,269158,Circuit ID : WBS_12598_1;;CPR : 750705701;;MSISDN : 97300005277;;Contact details.:97339969933,low
+16950,269353,Cm reset the device;;;;- Service Identifier: WBS_23628_1;;- Name: Muhammad Farhan;;- Contact: 97336593840,low
+16975,270188,Damages wires. ;;;;- Service Identifier: WBS_22929_1;;- Contact: 97339336950;;- Name: FUAD SAYED JAAFAR HASHEM,low
+17034,271120,internet is down. ;;;;line : 17341426;;;;contact : 35665349,low
+17085,271862,TT-1-221031004317;;Cm is complaining that there is no network service on device. device is working light is green but there is no connection and there is more than 300GB balance.,low
+17101,264964,Customer has reset the router and now the service is not working.;;;;;;-Circuit ID: WBS_11690_1;;;;-Contact: 38398888,high
+17109,264999,The customer already has fiber from other operator - 13618727,low
+17304,270268,-WBS_25856_1;;disconnection many time during the day;;contact number :34442002;;name : NABEEL SAEED HASAN Y ;;13635519,high
+17305,270268,-WBS_25856_1;;disconnection many time during the day;;contact number :34442002;;name : NABEEL SAEED HASAN Y ;;13635519,high
+17378,271680,Service dose not work when connecting through Wi-Fi.;;;;-Service Identifier: WBS_27582_1;;-Contact: 33447002;;-Name: HUSAIN ALI ALSHARQI;;-CPR: 740501534,low
+17543,268372,A:20001599;;issue:red LOS;;name: YURI ADELMAN;;cont:36749582,low
+17590,269814,Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Splitter was NOT found; ErrorReason: Fibre error: ERR-50102 - Splitter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+17604,270305,Customer Name: AMA INTERNATIONAL UNIVERSITY BAHRAIN W.L.L;;Address : Block no 712; Road no 1213; Building no 829;;POC: Rutherford/ 17787953,low
+17615,270600,-WBS_26663_1;;RED LOS / no data ;;contact number :33656587;;name : LULWA FARAJ YAQOOT;;13637350,low
+17723,265275,Please check the availability of fiber connection,low
+17732,265541,920807895;;;;• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Spliter was NOT found; ErrorReason: Fibre error: ERR-50102 - Spliter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+17820,268348,-A:20002432;;RED LOS / no data ;;contact number : 66632223;;name : HAMAD MAHMOOD YUSUF ;;13613237,low
+17851,269361,Customer Name: BMMI B.S.C ;;Najibi Centre; Building 3; Road 15; Block 515;;POC: Hussain Shaker/33446695,low
+17870,269818,customer is facing an issue with the speed as he says it keeps on dropping and he is not satisfied speed 3-5 mbps ;;-WBS_19248_1;;36310022,low
+17911,270494,Circuit ID WBS_28500_1 ;;cpr 761249370;;msisdn 97300013188;;contact 97335491197;;Dear team;;;as per the cs every 15 to 20 mins the wifi disconnects and then connects again which causes him to loose the page on which he is working online.;;;;please check what the issue can be and resolve it asap,high
+17928,270790,service is not working;;;;-Service Identifier: WBS_25510_1;;-Contact: 33330080 / 34155159;;-Name: ABDULMOHSEN MOHAMED MADAN;;-CPR: 610402129,high
+18014,264870,fiber is not available in the address; ONLY copper. Please share the cost assessment for this order.,low
+18029,265217,Dear Team; ;;;;Please note Red light in LOS; please check if visit is needed or can be fixed remotely;;;;Ack: VIVA-170150;;Circuit ID: 20007377;;Service order: 2007000502;;CPR: 590503324;;Contact: 39344905,low
+18113,267747,Dear team;;;;;Customer did rest to the router; now its not working.;;WBS_18858_1;;ID: 58174;;CPR: 970413106;;Contact: 35441418;;;;kindly assist.,high
+18146,268403,20005059;;no data connection ; the customer cannot connect with the internet;;contact number :66333007;;name : ERAM A.SATTAR MOHAMED ;;13616283,low
+18189,269435,heavy disconnection since last night and now not working (red light);;;;contact no. 39204421,high
+18336,264987,already have fiber from other operator - 13626799,low
+18348,265430,Order - 43292;;Dear Team;;;;;Kindly cancel the below mentioned order as the customer has changed his mind.,low
+18388,267121,customer is getting low spped on his router,low
+18509,269685,many disconnections per day ;;;;20007147;;39947248,high
+18636,265006,kindly Add the Address for efiber,low
+18749,268398,20006033 - LOS light showing red- customer contact - 38122845. Kindly resolve at the earliest.,low
+18760,268505,CUSTOMER CONTACT;;39768601,low
+18920,271611,T.1810-24355;;;;ENM || MMS4825 || heartbeat ||,low
+18924,271894,Kindly note that below mentioned link is flapped at 10:52 (GMT+3) for 04 minutes; please check and share RFO asap.;;;;;;Link_ID: Tag No:2003-26327 ;;Link_Speed: 10 Mbps;;Lastmile_Vlan_ID: 1318,low
+18949,265337,• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Spliter was NOT found; ErrorReason: Fibre error: ERR-50102 - Spliter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+18991,267297,splitter issue,high
+19087,269150,20001750;;disconnection many time during the day for the all devices ;;contact number :39616936;;name :ALI ABBAS HASAN ;;13610946,high
+19095,269193,RED LOS - Cut in Fiber cable ;;CONTACT 38333085;;SUB : ALI KADHEM ALI ISA SALMAN ALWADI,low
+19101,269323,Please add the address as soon as possible.;;;;When Checking for Service Availability; this notice below appears:;;;;• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Spliter was NOT found; ErrorReason: Fibre error: ERR-50102 - Spliter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE;;;;Account Manager: Adeel;;Customer Reference: Flat 1910 Bldg1021,high
+19143,270124,Speed is fluctuating;;;;-Service Identifier: WBS_27718_1;;-Contact: 39432829;;-Name: ALI YAQOOB BANI HAMMAD,low
+19151,270254,internet stopped working.;;;;contact no. 33448778,low
+19173,270641,The mentioned credentials in the closed ticket 270493 were wrong. The correct credentials.;;;;Username: 97300004832;;Password: 57215156;;;;;;-Service Identifier: WBS_12184_1;;-Contact: 39418844;;-Name: JAAFAR MOHAMMED ALMUTAWA;;-CPR: 810800578,low
+19185,270928,"Bandwidth upgrade order cannot be raised because the provide order \87806 \"" is still in progress.;;;;-Service Identifier: WBS_27789_1;;-Order: 87806 ;;-Contact: 35655681;;-Name: MOHAMED SALEH ABIDOU;;-CPR: 880482605""",low
+19192,271260,Circuit ID : 20006676;;;;customer is not getting the speed of his 10MBPS package.;;Speed result is 210KB.;;;;Customer contact : 33024228 .,low
+19233,271697,"LOS light is on \No Service\"";;;;-Service Identifier: WBS_14937_1;;-Contact: 34364012;;-Name: SAMYA EBRAHIM SAAD;;-CPR: 890610061""",high
+19248,264787,check fiber for 6 Mbps,high
+19329,267399,RFE -A:20004547;;customer issue speed ;;customer name REDHA RAJAB HASAN ABDULLA MOHAMED;;cont 36262067,low
+19330,267403,Error: Splitter free port not found MDU not found kindly resolve this so we can provide Fiber,low
+19365,268283,T.1704-22851;;link down,low
+19396,269006,"Current customer needs to shift the service to a new location but the service availability check was not successful.;;;;\• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Splitter was NOT found; ErrorReason: Fibre error: ERR-50102 - Splitter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE\""""",high
+19402,269339,Please add the address as soon as possible.;;;;When Checking for Service Availability; this notice below appears:;;;;• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Spliter was NOT found; ErrorReason: Fibre error: ERR-50102 - Spliter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE;;;;Account Manager: Adeel;;Customer Reference: Flat 2106 Bldg1021,high
+19441,269815,The customer is facing an issue with the ONT device; no connection no Los light; Circuit ID; -WBS_13341_1; Zain number 13618954; Contact number 36556600,low
+19443,269815,The customer is facing an issue with the ONT device; no connection no Los light; Circuit ID; -WBS_13341_1; Zain number 13618954; Contact number 36556600,low
+19456,270181,REF:20005479;;issue:speed with cable and one device getting downlaod 5MB and upload 42 KB;;customer name: MURAD JAN MOHAMMAD MURAD MOHD;;cont:36871413,low
+19645,268209,customer is getting low speed in upload ;;2.2 out of 5,low
+19687,269244,Kindly cancel this order as customer visited by technician; there is no fiber in his location;;ACK 75853,low
+19705,269601,internet is down; LOS red light;;;;contact no. 39420062,low
+19851,264818,Fibre Feasibility please;;POC:;;Mohammed Abdou;;32200063,low
+19866,265681,• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Spliter was NOT found; ErrorReason: Fibre error: ERR-50102 - Spliter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+19879,266526,"LOS light is on \No Service\"";;;;-Circuit ID: WBS_15268_1;;-Contact: 33388108;;-Name: HASAN MOHAMED MAHMOOD""",high
+19977,268295,• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Splitter was NOT found; ErrorReason: Fibre error: ERR-50102 - Splitter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+19979,268353,CUSTOMER FACING DISCONNETION FOR MORE THAN 9 HOURS,high
+20021,269208,the customer line is down sines morning ;;;;contact:16500188;;name: infonas noc,low
+20074,270714,-WBS_15620_1;;red los / no data ;;contact number :66688102;;name : JEHAD HAMEED JASIM ;;13619649,low
+20093,270890,"LOS light is on \No Service\"";;;;-Service Identifier: WBS_27713_1;;-Contact: 33444809;;-Name: AHMED YUSUF EBRAHIM;;-CPR: 850102235""",high
+20097,271049,20000882;;RED LOS / no data ;;contact number :35504184;;name :DIVANOLI MYDEEN PITCHAI;;66320544,low
+20204,266731,Service is disconnecting throughout the day ;;;;-Circuit ID: WBS_12810_1;;-Contact: 33339301;;-Name: MOHD ALSAYEGH,high
+20240,267311,20004711;;RED LOS / no data ;;contact number :32000413 ;;customer name : MUHAMMAD YOJNAS MUHA SIDDIQUE;;13616944,low
+20273,267979,Customer has reset the router and now the service is not working.;;;;-Service Identifier: WBS_12850_1;;-Contact: 35432194;;-Name: RAMSAL THAYYALATH,high
+20300,268773,REF:-WBS_20588_1;;issue:rest factory;;customer name:ABBAS ALI HASAN MAHDI ALI;;cont:37350053,low
+20315,268959,A:20006995; Router showing red light in the LOS area; please arrange a visit to check and rectify the issue.;;;;Ahmed Zakariya - 33188330,low
+20346,269475,Customer complaining of low speeds on his line. ;;;;Name: MUHAMMAD IRFAN;;CPR: 870231170;;Circuit Id: WBS_25071_1;;Address:Flat No 14; Building 5111; Road 674; Al Kharijia 606 Sitra; Bahrain,low
+20388,270483,-A:20005690;;66680920;;speed issue when he connects to 2.4 he gets 3-4 mbps on all devices,low
+20462,265467,• Service availability check was not successful. ErrorCode: ERR-50105; ErrorMessage: Splitter free port was NOT found; ErrorReason: Fibre error: ERR-50105 - Splitter free port was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE;;730400573 -- 66666511,high
+20487,266020,Router is not working;;;;Name: ABDULAZIZ ALSAQAABI;;Circuit ID: WBS_12028_1;;Contact: 66333230 / 33879666,high
+20521,267570,-WBS_21177_1;;speed issue ; he is getting 4mbps since installation; he should get 20mbps ;;contact number : 37100999;;customer name : AHMED ABDULZAHRAA ;;13633469,low
+20555,268284,it shows there is no Fiber in the area but the customer is saying already they fixed the cable .;;;;39958538;;880885289,low
+20676,270180,Customer faced drop on the circuit;;T;2012-27572;;T.2012-27573;;T.2012-27574;;T.2012-27575,high
+20710,271454,The circuit ID 17612038 Is down.;;Please check and Kindly do the needful.,high
+20930,269471,The customer is complaining of slow internet.,low
+20992,270734,Low power issue and Errors observed on the port,low
+21114,266586,Please check the possibility of having fiber at the above address.;;Currently; when checking availability; the following error is shown:;;;;Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Spliter was NOT found; ErrorReason: Fibre error: ERR-50102 - Spliter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+21228,269304,TEST from Fadhel;;;;the line is down.,high
+21243,269642,Reconfiguration is done; but no service. ;;;;-Service Identifier: WBS_25853_1;;;;-Contact: 39992462;;;;-Name: HANI ALI YUSUF,high
+21471,269017,Disconnection;;;;TBS 20000203;;Contact : 39988991,high
+21670,267653,Service is fluctuating ;;;;-Service Identifier: WBS_15017_1;;-Contact: 39842484;;-Name: VIVEK ANANDAN,low
+21761,269431,Customer is facing many disconnections ;;;;TBS : 20009849;;Contact : 39542222,high
+21770,269547,20002281;;disconnection many time during the day and speed always getting drop;;contact number :36959391;;name : NAEEMA HASAN JAAFAR ;;13612868,high
+21930,266272,Service availability check was not successful. ErrorCode: ERR-50106; ErrorMessage: No path was NOT found from splitter to OLT; ErrorReason: Fibre error: ERR-50106 - No path was NOT found from splitter to OLT & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+21938,266355,Damaged cable ;;;;-Circuit ID: 20009300;;-Contact: 39295442;;-Name: Sujith Subramanian,low
+22026,269129,Circuit id : 20006372;;customer is facing the same issue .;;customer contact : 66666609;;name : yuuf ibrahim;;refer close ticket 268804,low
+22133,271636,internet is not working;;;;Contact : 66347924,high
+22153,271734,Fluctuated speed.;;;;- Service Identifier: WBS_32589_1;;- Name: TARIQ HASSAN FAKHROO;;- Contact: 97336676676,low
+22191,265707,When clicking Check Service Availability; this notice below appears:;;;;;;• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Spliter was NOT found; ErrorReason: Fibre error: ERR-50102 - Spliter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+22219,266579,Intercol NIA Division. 80MB/15MB,low
+22325,269698,they went to his house but they didn't fix it because wrong address ;;;;I update the new address only A it was missing ;;;;ACK : 85545,low
+22413,271806,Fiber feasibility for Inet dedicated.,low
+22471,265934,When checking for Service Availability; this notice appears;;;;• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Spliter was NOT found; ErrorReason: Fibre error: ERR-50102 - Spliter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE;;;;PLEASE ADD THIS ADDRESS,high
+22598,269977,Site connectivity issue,low
+22692,271841,Service is disconnecting through out the day. It goes back to normal when they reboot ONT.;;;;-Service Identifier: 20007141;;-Contact: 66901300;;-Name: GAILAN HUSSEIN MOHAMMED;;-CPR: 950917672,high
+22736,265873,"LOS light is on \No Service\"";;;;-Name: BHUSHAN NARAYAN;;-Circuit ID: WBS_15235_1;;-Contact: 39961651""",high
+22954,271436,R_LOS Alarm on the tag T.1910-25713B;;;;Kindly investigate,low
+22989,265192,Dear Team; ;;;;Kindly do the needful at the earliest,low
+23042,266496,customer is not able to connect to internet and the wifi name does not show for him; please check and confirm. ;;;;MSISDN: 97300007254;;Circuit ID: WBS_16970_1,low
+23045,266628,Otis is looking for 20MB WDC services.,low
+23129,268937,customer have no internet service ;;address ;;Building 1941;;Road 7527;;Janabeyia 575;;;;Location shared:;;https://maps.google.com/maps?q=26.181869506835938;50.4764404296875;;;; Circuit ID : WBS_19275_1;;CPR 750708913;;contact 97339873258,low
+23158,269465,20001033;;disconnection many time during the day ;;contact number :36603102;;name : ABDULRAHIM AHMED ;;13604006,high
+23166,269476,Port Forwarding is not working for the customer.;;;;Please check and fix.;;Contact customer at 39 162 128,high
+23186,270421,The router has been installed on the floor and the customer was promised to be visited by another team to reinstall the router on the wall.;;;;Contact number: 34449202,low
+23262,271784,20003596;;cut in fiber cable ;;contact number :37221174 ; 34448420-33933631;;name : MOUSA ALI AHMED MOHSIN ;;13614159,low
+23263,271784,20003596;;cut in fiber cable ;;contact number :37221174 ; 34448420-33933631;;name : MOUSA ALI AHMED MOHSIN ;;13614159,low
+23301,266148,for the customer's address team has informed 60 days need to wait for installation. so customer canceled fiber and he is planning to take mobile broadband kindly cancel fiber order ;;;;ACK - 52116;;WBS_16982_1;;contact - 33954626;;;;Thanks.,low
+23361,268883,A lot of disconnection and low speed for a long time ;;;;please arrange to check from A-Z and replace the Router ;;-WBS_13341_1;;LOL:13618954;;cONTACT : 36556600,high
+23372,269086,internet is fluctuating and upload not working fine even small email not able to send ;;;;circuit 17009684;;;;;;contact 17705333;;36024404,high
+23393,269452,Line : 17293844;;customer's line is not working .;;contact : 39841506,high
+23642,267471,Location=: Location shared:;;https://maps.google.com/maps?q=26.13907241821289;50.579864501953125;;;;;;Contact: 97339277799;;CPR: 901110825,low
+23719,269024,cpr 840102089 ;;;;• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Splitter was NOT found; ErrorReason: Fibre error: ERR-50102 - Splitter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+23760,269898,"Current customer \880259531\"" wants to shift the service but the external shifting order could not be raised \""• Address check has not been successful. No matching addresses found. \""""",low
+23860,266524,browsing and speed issue every night from 7pm to 12pm;;;;contact no.37106336,low
+23870,266835,Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Splitter was NOT found; ErrorReason: Fibre error: ERR-50102 - Splitter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+23882,266901,WBS_16646_1 - link is down;;36686164customer number,low
+23932,268262,• Service availability check was not successful. ErrorCode: ERR-50102; ErrorMessage: Splitter was NOT found; ErrorReason: Fibre error: ERR-50102 - Splitter was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+23933,268499,the line is facing attainability issue which cause the disconnection and another ticket have been raised and closed Ticket 268353 but the issue is still there for almost a week now;;;;contact 36022789,high
+23958,269089,slowness; getting around 30 mbps instead of 100mbps;;;;contact no. 36964778,low
+23987,269587,No Service. ;;;;- Service Identifier: WBS_25587_1;;- Contact: 97339351233;;- Name: KAUSHIK KISHORBHAI JOSHI,high
+24229,268847,customer is facing slowness.;;;;TBS 20006669;;Contact 32223309,low
+24258,269715,REF:20006859;;issue:red LOS;;customer name:NASRA SALEH HASAN A ALSAADOON;;cont:33452054,low
+24270,269882,Customer reported link down with the tag number T.2008-27195,low
+24289,270611,Service is disconnecting; and the wifi is not working properly. ;;;;-Service Identifier: WBS_27576_1;;-Contact: 39277750;;-Name: MAHMOOD JAAFAR ABDULLA;;-CPR:,high
+24290,270611,Service is disconnecting; and the wifi is not working properly. ;;;;-Service Identifier: WBS_27576_1;;-Contact: 39277750;;-Name: MAHMOOD JAAFAR ABDULLA;;-CPR:,high
+24333,271453,the internet is down ; check and confirm if the service is on single router or no; ;and confirm if everything is up,low
+24335,271534,Cm need his fiber device to be shifted to the new mentioned address ASAP. as the case has been pending from almost a month with previous Ticket 271021.;;;;Callback msisdn - 35085987;;Fiber msisdn - 97320003026,low
+24510,268884,disconnection and low speed speed he is getting 1.89 mbps ;;Fiber Billing REF: -WBS_12024_1 ;;contact number 38847604,high
+24679,267166,the internet is not working since 7th of Dec the customer says that he made reset and claims that someone fixed it for him. ;;he had a previous case on the 6th of dec and they came and fixed the speed after they left he made the reset;;20001197 ;;contact number 37177225,high
+24715,267921,as discussed with jawad ; CPE change needed,low
+24828,270891,circuits with the below tags are down;;;;1289 T.1903-24940 ;;1287 T.1903-24950;;1620 T.1901-24706,low
+24962,266681,REF:-WBS_16586_1;;RED LOS-no light at all on the device ;;customer name: HAMZA MOHAMED ABDULHUSAIN ABDULAAL;;contact:36213302,low
+25045,268981,customer is facing slowness and disconnections issue. ;;;;TBS : WBS_14330;;Contact :39318908,high
+25114,270979,REF:20002313;;Issue:cable cut;;customer name:SAKINA ABDULLA AHMED MAHDI;;cont:33128627,low
+25142,271482,Speed is not stable. Specially the upload;;;;-Service Identifier: WBS_31716_1;;-Contact: 33508551;;-Name: NORDIN BIN YAHYA;;-CPR: 601233883,low
+25315,270513,Packets drop / Contact 36700708,low
+25324,270628,customer is not able to connect with the service.;;He tried to connect with cable and Wi-Fi ; its showing connected but without internet service.;;contact: 33674732,low
+25333,270680,Customer has reset the router and now the service is not working.;;;;-Service Identifier: WBS_20384_1;;-Contact: 39422900;;-Name: ZIAD FAISAL ALKURABI;;-CPR: 740151002,high
+25339,270742,Service is disconnecting and speed is fluctuating.;;;;-Service Identifier / Circuit ID: 20004338;;-Contact: 35573485;;-Name: GERDA FOURIE;;-CPR: 770379265,high
+25515,268181,Only VDSL availability on this address kindly fix it for fiber,low
+25546,268641,REF:-WBS_16988_1;;issue:disconnection;;customer name:SAMEER EBRAHIM NOORUDDIN NOORUDDIN;;cont:39471117,high
+25626,270801,Service availability check was not successful. ErrorCode: ERR-50105; ErrorMessage: Splitter free port was NOT found; ErrorReason: Fibre error: ERR-50105 - Splitter free port was NOT found & DSL error: ERR-50107 - MDU was NOT found; No internalWiring available! internalWiring = NONE,high
+25644,270965,internet service is not working ;;contact customer 38444115 for visit ;;visit should be after 4 pm,high
+25645,270965,internet service is not working ;;contact customer 38444115 for visit ;;visit should be after 4 pm,high
+25654,271156,Service is not working. Only the power indicator light is on;;;;-Service Identifier: WBS_11860_1;;-Contact: 33009477;;-Name: SHOUKATH ALI;;-CPR: 610434705,high
